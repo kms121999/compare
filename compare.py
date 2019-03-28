@@ -11,6 +11,8 @@ def main():
     # Compare the numbers
     if firstNumber > secondNumber:
         print("num 1 is bigger than num 2")
+    elif secondNumber > firstNumber:
+        print("num 2 is bigger than num 1")
 
 
 def getInt(prompt):
