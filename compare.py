@@ -10,7 +10,7 @@ def main():
 
     # Compare the numbers
     if firstNumber > secondNumber:
-        print("num 1 is bigger than num 2")
+        print("Number 1 is bigger than Number 2.")
 
 
 def getInt(prompt):
