@@ -13,6 +13,8 @@ def main():
         print("num 1 is bigger than num 2")
     elif secondNumber > firstNumber:
         print("num 2 is bigger than num 1")
+    elif firstNumber == secondNumber:
+        print("num 1 is equal to num 2")
 
 
 def getInt(prompt):
